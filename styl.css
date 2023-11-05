@@ -1,0 +1,79 @@
+
+
+  .container-fluid{
+    padding: 7% 15%;
+  }
+
+  .wd{
+    margin: 5rem 0;
+  }
+
+  .wh{
+    font-size: 50px;
+  }
+
+  .wf{
+    font-size: 1.25rem;
+    font-weight: 300;
+  }
+
+  .navbar-brand{
+    font-size:2.5rem;
+    font-family: "Montserrat-Light";
+
+  }
+
+  .nav-link {
+    font-size: 1.5rem;
+    font-family: "Montserrat-Light";
+    text-align: right;
+  }
+  
+  .col-md-7 {
+    flex: 0 0 auto;
+    width: 58.33333333%;
+}
+
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+
+.order-md-2 {
+  order: 2!important;
+
+}
+
+.order-md-1 {
+    order: 1!important;
+}
+
+.row {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(-1 * var(--bs-gutter-y));
+  margin-right: calc(-.5 * var(--bs-gutter-x));
+  margin-left: calc(-.5 * var(--bs-gutter-x));
+}
+.navbardiv{
+  padding: 10px 0px 10px 10px;
+}
+
+
+#footer{
+  text-align: center;
+  font-size: 25px;
+}
+
+.wf{
+  font-size: 2rem;
+}
+
+.itx{
+  font-family: "Montserrat-Light";
+  font-size: 2rem;
+
+}
